@@ -1,0 +1,7 @@
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\bin\Debug\ЛР3.exe.config
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\bin\Debug\ЛР3.exe
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\bin\Debug\ЛР3.pdb
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.AssemblyReference.cache
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.CoreCompileInputs.cache
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\obj\Debug\ЛР3.exe
+C:\Users\Юра будет дуть\source\repos\ЛР3\ЛР3\obj\Debug\ЛР3.pdb
